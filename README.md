@@ -11,7 +11,7 @@ Requisitos:
 ## Instalando as dependências
 
 ```
-pip install selenium \n
-pip install behave \n
+pip install selenium
+pip install behave
 pip install webdriver-manager
 ```
